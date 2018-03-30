@@ -1,0 +1,10 @@
+I am trying to implement Alexa skills on the phone without using raspberry Pi at the moment.
+Below is the link that shows how to implement the alexa on the android or ios platform.
+
+https://developer.amazon.com/public/solutions/alexa/alexa-voice-service/docs/reference-implementation-guide
+
+This is the reference provided by the amazon to implement alexa skills on the android and IOS platform.
+
+We have to download Apache Maven and Node.js server.
+
+To implement on the phone, I have created one more product on amazon developer account that supports android application and not the actual device like Raspberry pi.
