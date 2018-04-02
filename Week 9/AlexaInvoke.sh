@@ -1,6 +1,6 @@
-Bash Scipt to innvoke the Alexa with one click on Raspberry Pi.
-
 #!/bin/bash
+
+# Bash Script to innvoke the Alexa with one click on Raspberry Pi.
 
 # To kill the processes that are already running
 pkill -f node     
