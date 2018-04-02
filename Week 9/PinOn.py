@@ -1,6 +1,10 @@
 import RPi.GPIO as GPIO
+import time
 GPIO.setmode(GPIO.BCM)
-pin = 5
-GPIO.setup(pinNum, GPIO.OUT)
-GPIO.output(pinNum, GPIO.HIGH)
-#GPIO.output(pinNum, GPIO.LOW)
+GPIO.setwarnings(False)
+GPIO.setup(17,GPIO.OUT)
+print "LED on"
+GPIO.output(17,GPIO.HIGH)
+time.sleep(1)
+print "LED off"
+GPIO.output(17,GPIO.LOW)
