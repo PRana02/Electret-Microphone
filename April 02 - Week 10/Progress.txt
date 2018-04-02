@@ -1,0 +1,5 @@
+So far, I have created custom skills to control GPIO pins on raspberry Pi with the help of Alexa.
+Below is the link:
+
+http://www.instructables.com/id/Control-Raspberry-Pi-GPIO-With-Amazon-Echo-and-Pyt/
+
