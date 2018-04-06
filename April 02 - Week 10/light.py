@@ -1,5 +1,6 @@
 # A python script to turn the LED on and off according to the command given to Alexa.
 # Running this script also sends the data to firebase database
+# A python firebase is used to create connection between raspberry pi and firebase database.
 from flask import Flask
 from flask_ask import Ask, statement, convert_errors
 import RPi.GPIO as GPIO
