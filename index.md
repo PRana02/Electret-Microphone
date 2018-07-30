@@ -1,6 +1,6 @@
 ## Piyush Rana CENG 317 USB Microphone -- Blog.
 
-## Week 11  -  January 15 2017
+## Week 11  -  January 15 2018
 * Due to my travel plans, I wasn't able to finish the progress report and presentaion on time.
 * As soon as I got back to Toronto, I finished the required documents and below is the link to that.
 * Link to my [Progress Report](https://github.com/PRana02/USB-Microphone-Alexa-Skills-Based-/blob/master/Project%20Progress%20Report.docx)
